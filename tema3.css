@@ -1,0 +1,109 @@
+/* Tema 3 - Colorido */
+body {
+    font-family: Verdana, sans-serif;
+    background: #ffe66d;
+    color: #2d3436;
+}
+
+header {
+    background: #ff6b6b;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    background: #4ecdc4;
+}
+
+.hero {
+    background: white;
+    padding: 30px;
+    margin: 20px;
+    border: 5px solid #4ecdc4;
+}
+
+h2 {
+    color: #ff6b6b;
+}
+
+.hero h3 {
+    color: #ff6b6b;
+}
+
+button {
+    background: #ff6b6b;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid #4ecdc4;
+}
+
+article {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border: 4px solid #ff6b6b;
+}
+
+article h3 {
+    color: #ff6b6b;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid white;
+    color: white;
+}
+
+.card:nth-child(1) {
+    background: #ff6b6b;
+}
+
+.card:nth-child(2) {
+    background: #4ecdc4;
+}
+
+.card:nth-child(3) {
+    background: #ffe66d;
+    color: #2d3436;
+}
+
+.card:nth-child(4) {
+    background: #95e1d3;
+    color: white;
+}
+
+code {
+    background: white;
+    padding: 2px 6px;
+    font-family: 'Courier New', monospace;
+    color: #ff6b6b;
+    border: 2px solid #4ecdc4;
+}
+
+footer {
+    background: #4ecdc4;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-top: 5px solid #ff6b6b;
+}
+

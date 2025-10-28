@@ -1,0 +1,85 @@
+/* Tema 1 - Azul */
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f8ff;
+    color: #333;
+}
+
+header {
+    background: #4a90e2;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+    background: white;
+    padding: 30px;
+    margin: 20px;
+    border: 3px solid #4a90e2;
+}
+
+button {
+    background: #4a90e2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+article {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #4a90e2;
+}
+
+article h3 {
+    color: #4a90e2;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #4a90e2;
+}
+
+.card h4 {
+    color: #4a90e2;
+}
+
+code {
+    background: #e8f0f8;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    color: #4a90e2;
+}
+
+footer {
+    background: #4a90e2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+

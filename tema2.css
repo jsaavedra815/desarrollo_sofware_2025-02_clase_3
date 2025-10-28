@@ -1,0 +1,100 @@
+/* Tema 2 - Oscuro */
+body {
+    font-family: Arial, sans-serif;
+    background: #1a1a1a;
+    color: #e0e0e0;
+}
+
+header {
+    background: #2d2d2d;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #00ff88;
+}
+
+h1 {
+    color: #00ff88;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+    background: #2d2d2d;
+    padding: 30px;
+    margin: 20px;
+    border: 3px solid #00ff88;
+}
+
+.hero h3 {
+    color: #00ff88;
+}
+
+button {
+    background: #00ff88;
+    color: #1a1a1a;
+    padding: 10px 20px;
+    border: none;
+}
+
+article {
+    background: #2d2d2d;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #00ff88;
+}
+
+article h3 {
+    color: #00ff88;
+}
+
+article p {
+    color: #b0b0b0;
+}
+
+.card {
+    background: #2d2d2d;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #00ff88;
+}
+
+.card h4 {
+    color: #00ff88;
+}
+
+.card p {
+    color: #b0b0b0;
+}
+
+code {
+    background: #1a1a1a;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    color: #00ff88;
+    border: 1px solid #00ff88;
+}
+
+footer {
+    background: #2d2d2d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-top: 3px solid #00ff88;
+}
+
