@@ -1,0 +1,90 @@
+/* Tema 5 - Personal */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #f0f8ff;
+    color: #083118;
+}
+
+header {
+    background: #c183de;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(12, 12, 12);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: rgb(6, 6, 6);
+    text-decoration: underline;
+    padding: 10px;
+    
+}
+
+.hero {
+    background: rgb(200, 226, 236);
+    padding: 30px;
+    margin: 20px;
+    border: 3px solid #030303;
+    text-align: center;
+}
+
+button {
+    background: #031206;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: 2px solid black
+      
+}
+
+article {
+    background: rgb(248, 245, 250);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #151616;
+    text-align: center;
+}
+
+article h3 {
+    color: #011b3e;
+}
+
+.card {
+    background: rgb(249, 244, 234);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #020202;
+    text-align: center;
+}
+
+.card h4 {
+    color: #834b0c;
+}
+
+code {
+    background: #e8f0f8;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    color: #ec630e;
+}
+
+footer {
+    background: #e89aeb;
+    color: rgb(15, 15, 15);
+    padding: 20px;
+    text-align: center;
+}
+
