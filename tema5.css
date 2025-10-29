@@ -1,0 +1,101 @@
+/* Tema 4 - Gris Oscuro */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: #24d624;
+    color: #07b1bd;
+}
+
+header {
+    background: #065bb1;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(15, 172, 120);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: rgb(190, 59, 207);
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+    background: rgb(221, 22, 98);
+    padding: 30px;
+    margin: 20px;
+    border-left: 8px solid #2c3e50;
+}
+
+h2 {
+    color: #f7f7f8;
+}
+
+.hero h3 {
+    color: #f5f7f8;
+}
+
+button {
+    background: #2c3e50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+article {
+    background: rgb(221, 22, 98);
+    padding: 20px;
+    margin: 20px;
+    border-top: 5px solid #2c3e50;
+}
+
+article h3 {
+    color: #f3f5f8;
+}
+
+article p {
+    color: #000000;
+}
+
+.card {
+    background: rgb(221, 22, 98);
+    padding: 20px;
+    margin: 20px;
+    border-left: 6px solid #e74c3c;
+}
+
+.card h4 {
+    color: #21c900;
+}
+
+.card p {
+    color: #fafafa;
+}
+
+code {
+    background: #e8e8e8;
+    padding: 2px 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(58, 45, 61);
+    border-left: 3px solid #e74c3c;
+}
+
+footer {
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-top: 5px solid #e74c3c;
+}
